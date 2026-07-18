@@ -15,7 +15,6 @@ Transformando ideias em aplicações web, soluções inteligentes e projetos de 
 - 💻 Desenvolvedor Back End
 - 🐍 Desenvolvedor Python Junior
 - ☕ Desenvolvedor Java Junior
-- 🌐 Desenvolvimento Web moderno
 - 🤖 Estudando Inteligência Artificial e Machine Learning
 - 📊 Apaixonado por Ciência de Dados
 - 📚 Sempre aprendendo novas tecnologias

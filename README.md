@@ -2,9 +2,7 @@
 
 ### Desenvolvedor | Python | Java | Data Science | Machine Learning | Inteligência Artificial
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+constante+evolução;Python+%7C+Java+%7C+JavaScript;Data+Science+%7C+Machine+Learning;Inteligência+Artificial+%7C+APIs" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/rogerepsilva">

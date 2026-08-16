@@ -466,24 +466,6 @@ Essa evolução pode ser observada no conjunto dos projetos públicos disponíve
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogerepsilva&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerepsilva&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rogerepsilva/rogerepsilva/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
 ---
 
 <p align="center">
